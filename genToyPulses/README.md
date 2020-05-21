@@ -1,0 +1,1 @@
+Included is code that was used to generate fake LS and NaI pulses for the NaI QF run. See the individual code documentation for more details. The fitting code is only necessary if you are unhappy with the fake LS pulses generated and want to try to come up with your own parameters. More documentation will be added soon.
